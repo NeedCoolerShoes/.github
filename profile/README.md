@@ -1,7 +1,7 @@
 # NeedCoolerShoes
 ## The Miners Need Cool Shoes Restoration Project
 
-![](banner.png)
+![](/profile/banner.png)
 
 For many years, and for many Minecrafters, Miners Need Cool Shoes was the go-to, best, and easiest tool for skin creation and sharing. Unfortunately, however, around January of 2023, the site at needcoolshoes.com would go dark, and, as of the date of writing this, never return.
 
